@@ -13,4 +13,4 @@
 - Passionate about embedded systems, microcontroller programming, and digital design.
 - Currently expanding my skills in C/C++, ARM Cortex-M, and Verilog.
 
-[![Zon's github stats](https://github-readme-stats.vercel.app/api?username=ZonKitiyakara&theme=radical&show_icons=true)]
+![Zon's github stats](https://github-readme-stats.vercel.app/api?username=ZonKitiyakara&theme=radical&show_icons=true)
