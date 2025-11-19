@@ -46,6 +46,7 @@
 [![](https://visitcount.itsvg.in/api?id=ZonKitiyakara&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 📄 Resume
+[**Download My Resume (PDF)**](Zon_Kitiyakara_Resume.docx.pdf)
 
 
 
