@@ -53,7 +53,6 @@
 - 💼 **LinkedIn:** [linkedin.com/in/zonkitiyakara](https://linkedin.com/in/zonkitiyakara)
 - 🐙 **GitHub:** [github.com/ZonKitiyakara](https://github.com/ZonKitiyakara)
 - 📍 **Location:** San Jose, CA
-- 
 # 👨🏻‍💻 Languages:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -76,14 +75,7 @@
 ![IR Sensor](https://img.shields.io/badge/IR%20Sensor-9C27B0?style=for-the-badge)
 ![OLED SSD1306](https://img.shields.io/badge/OLED%20SSD1306-212121?style=for-the-badge)
 ![State Machine Logic](https://img.shields.io/badge/State%20Machine%20Logic-283593?style=for-the-badge)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ZonKitiyakara&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZonKitiyakara&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=ZonKitiyakara&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 
 
 
