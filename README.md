@@ -1,18 +1,59 @@
 
 
 
-### Hi, I'm Zon!
+### Hi there, I'm Zon! 👋
 
-👷🏻 Electrical Engineer documenting my journey in embedded systems, hardware design, and real-world builds<br/>
-🎓 Fourth-Year Electrical Engineering Student at San José State University<br/>
-💻 Interested in Embedded Systems, Microcontrollers, and Digital Logic<br/>
-🚀 Building a portfolio for Summer 2026 Embedded Engineering Internships<br/>
+🎓 **Senior Electrical Engineering Student** @ San José State University  
+🤖 **Focus:** PCB Design | Motor Control & Power Electronics | Robotics Systems & Firmware  
+💼 **Currently:** EE Intern & Robotics Instructor @ Evodyne | Former Research Assistant @ SJSU ARMS Lab  
 
-### 🌟About Me
-- I enjoy building systems that combine firmware, sensors, and real hardware.
-- Passionate about embedded systems, microcontroller programming, and digital design.
-- Currently expanding my skills in C/C++, ARM Cortex-M, and Verilog.
+---
 
+### 🌟 About Me
+
+- 📐 **PCB & Hardware Design:** Schematic capture, layout, and DRC-verified board routing using **KiCad** (including SMD component sizing, copper pours, and Gerber generation).
+- ⚡ **Power Electronics & Motor Control:** Hands-on experience designing and prototyping custom three-phase BLDC motor drivers, gate drivers, flyback protection, and half-bridge circuits.
+- 🤖 **Robotics Architecture:** Building end-to-end electrical architectures, load cell sensing systems, and communication lines (UART, SPI) for autonomous and medical robotic systems.
+- 💻 **Embedded Firmware:** Low-level programming in **C/C++** on ARM Cortex-M4 (MSP432), ESP32/ESP32-S3, and Raspberry Pi platforms.
+
+---
+
+### 🛠️ Technical Toolkit
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **EDA & Simulation** | KiCad (Schematic & Layout), LTspice |
+| **Microcontrollers & Dev** | ESP32 / ESP32-S3, MSP432 (ARM Cortex-M4), Raspberry Pi, FPGA (Vivado), Arduino |
+| **Hardware & Firmware** | C/C++, Python, SPI, I²C, UART, Motor Control (BLDC & Gate Drivers), ADC/DAC, PWM |
+| **Lab & Bench Equipment** | Oscilloscopes, SMD Soldering, LTspice Simulation, Flyback/Op-Amp Circuit Debugging |
+| **Developer Tools** | Git / GitHub, Linux Terminal, ROS2 Data Formatting |
+
+---
+
+### 🚀 Highlighted Experience & Projects
+
+#### ⚡ [3-Phase BLDC Motor Driver PCB Design](https://github.com/ZonKitiyakara) *(Evodyne Internship)*
+- Designed, simulated (LTspice), and breadboard-verified a 3-phase BLDC motor driver using IRS2302S gate drivers and IRLZ44N MOSFETs.
+- Implemented Schottky flyback diode protection to resolve back-EMF thermal issues and validated 5 kHz square-wave outputs on an oscilloscope.
+- Transitioning breadboard circuit into a manufactured PCB.
+
+#### 🦾 [Medical Robotic Walker Architecture](https://github.com/ZonKitiyakara) *(ARMS Lab Research)*
+- Designed the full electrical architecture, power distribution, and SPI/UART communication routing between a Jetson Orin and ESP32.
+- Integrated HX711 load cell sensors with real-time drift compensation, tare accuracy filtering, and formatted serial outputs for ROS2 consumption.
+
+#### 🔌 [Compact 3-Stage Voltage Multiplier PCB](https://github.com/ZonKitiyakara) *(SJSU EE122)*
+- Designed a compact single-layer SMD PCB in KiCad within a tight 1" × 0.8" outline.
+- Executed full design-to-fabrication workflow: manual 12 mil trace routing, full GND copper pour, DRC verification, and Gerber generation.
+
+---
+
+### 📬 Connect with Me
+
+- ✉️ **Email:** Zonkitiyakara@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/zonkitiyakara](https://linkedin.com/in/zonkitiyakara)
+- 🐙 **GitHub:** [github.com/ZonKitiyakara](https://github.com/ZonKitiyakara)
+- 📍 **Location:** San Jose, CA
+- 
 # 👨🏻‍💻 Languages:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -42,8 +83,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ZonKitiyakara&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📄 Resume
-[**Download My Resume (PDF)**](Zon_Kitiyakara_Resume.docx.pdf)
 
 
 
